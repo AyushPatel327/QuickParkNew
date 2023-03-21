@@ -68,7 +68,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>QuickPark</finalName>
+		<finalName>quickpark</finalName>
 	</build>
 
 </project>
